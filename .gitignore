@@ -1,4 +1,10 @@
 *
 
+!app/
+!app/**/*.py
+
+!tests/
+!tests/*.py
+
 !LICENSE
 !README.md
